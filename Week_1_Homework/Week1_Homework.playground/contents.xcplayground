@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<playground version='6.0' target-platform='ios' buildActiveScheme='true' importAppTypes='true'>
+    <pages>
+        <page name='D1_Q1'/>
+        <page name='D1_Q2'/>
+        <page name='D2_Q1'/>
+        <page name='D2_Q2'/>
+        <page name='D2_Q3'/>
+        <page name='D2_Q4'/>
+        <page name='D2_Q5'/>
+    </pages>
+</playground>
