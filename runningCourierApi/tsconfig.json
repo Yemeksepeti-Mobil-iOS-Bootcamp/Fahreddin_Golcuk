@@ -1,0 +1,22 @@
+{
+  "compilerOptions": {
+    "module": "commonjs",
+    "target": "es5",
+    "esModuleInterop": true,
+    "moduleResolution": "Node",
+    "sourceMap": true,
+    "outDir": "dist",
+    "baseUrl": "./",
+    "paths": {
+      "@Controllers/*": ["src/Controllers/*"],
+      "@Core/*": ["src/Core/*"],
+      "@Functions/*": ["src/Functions/*"],
+      "@Models/*": ["src/Models/*"],
+      "@Routers/*": ["src/Routers/*"],
+      "@Types/*": ["src/Types/*"],
+    }
+  },
+  "exclude": [
+    "node_modules"
+  ]
+}
